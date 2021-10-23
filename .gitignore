@@ -131,4 +131,5 @@ dmypy.json
 # Project Stuff
 /images*
 /oasis_3_images
+/dicom_data
 
